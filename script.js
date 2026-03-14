@@ -58,7 +58,8 @@ const button = document.getElementById("valentinesButton");
 
 button.addEventListener("click", () => {
   // Thay đổi URL ở đây theo link bạn muốn đến
-  const targetUrl = "https://example.com";
+  const targetUrl =
+    "https://drive.google.com/file/d/1lm9S5slE30o7lV9K8YjVAZWrNDQAyy1r/view?pli=1";
   window.location.href = targetUrl;
 });
 
